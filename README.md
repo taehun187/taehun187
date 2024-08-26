@@ -21,11 +21,7 @@
 
 ---
 
-# 🐣 taehun187 🐣
-
-[![GitHub followers](https://img.shields.io/github/followers/taehun187?label=GitHub&style=social)](https://github.com/yourusername)
-
-## 🍊 taehun.Tistory 🍊
+# 🍊 taehun.Tistory 🍊
 [![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-F36C3D?style=for-the-badge&logo=tistory&logoColor=white)](https://xogns93.tistory.com/)
 
 ---
