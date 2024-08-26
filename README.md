@@ -5,7 +5,6 @@
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -22,6 +21,28 @@
 
 ---
 
+# 🐣 Seon Dal 🐣
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=GitHub&style=social)](https://github.com/yourusername)
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojusername)
+
+## 🍏 Seondal.log 🍏
+[![Velog Badge](https://img.shields.io/badge/-seondal.log-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@yourusername)
+
+## 🍊 Seondalgorithm 🍊
+[![Tistory Badge](https://img.shields.io/badge/-Seondalgorithm-F36C3D?style=flat-square&logo=Tistory&logoColor=white)](https://whkakrkr.tistory.com)
+
+---
+
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&langs_count=6)
+
+---
+
+## 🔥 Kim Seon's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+---
