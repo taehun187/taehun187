@@ -21,28 +21,24 @@
 
 ---
 
-# 🐣 Seon Dal 🐣
+# 🐣 taehun187 🐣
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=GitHub&style=social)](https://github.com/yourusername)
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojusername)
+[![GitHub followers](https://img.shields.io/github/followers/taehun187?label=GitHub&style=social)](https://github.com/yourusername)
 
-## 🍏 Seondal.log 🍏
-[![Velog Badge](https://img.shields.io/badge/-seondal.log-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@yourusername)
-
-## 🍊 Seondalgorithm 🍊
-[![Tistory Badge](https://img.shields.io/badge/-Seondalgorithm-F36C3D?style=flat-square&logo=Tistory&logoColor=white)](https://whkakrkr.tistory.com)
+## 🍊 taehun.Tistory 🍊
+[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-F36C3D?style=for-the-badge&logo=tistory&logoColor=white)](https://xogns93.tistory.com/)
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?taehun187=yourusername&layout=compact&theme=default&langs_count=6)
 
 ---
 
-## 🔥 Kim Seon's GitHub Stats
+## 🔥 Lee TaeHun's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?taehun187=yourusername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taehun187&theme=radical)
 
 ---
