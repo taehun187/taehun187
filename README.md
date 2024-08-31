@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 Most Used Languages
+# 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?taehun187=yourusername&layout=compact&theme=default&langs_count=6)
 
