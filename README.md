@@ -1,4 +1,4 @@
-# Hello 👋, I'm taehun187
+# Hello 👋, I'm taehun187(LEE_TAE_HUN)
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=taehun187%20&fontSize=90)
 
